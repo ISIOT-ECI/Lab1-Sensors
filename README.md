@@ -42,7 +42,7 @@ For the following steps, take into consideration the following diagram, which sh
 
 2. Assemble the circuit for the DHT-11, the and the button. The following schematics illustrates how to do so (use 10k ohm resistor for the button, and 200-400 ohm resistor for the LED):
 
-	![](https://i.pinimg.com/originals/e8/7d/77/e87d77346c3be5e2514b0b2b3c33456e.png)
+	![](img/PushButtonCircuit.png)
 	![](https://circuits4you.com/wp-content/uploads/2019/01/NodeMCU-DHT11-DHT22.png)
 	![](https://www.geekering.com/wp-content/uploads/2019/03/nodemcu_led_blinker_fritzing-768x553.png)
 	
