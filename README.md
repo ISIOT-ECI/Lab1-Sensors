@@ -58,7 +58,7 @@ For the following steps, take into consideration the following diagram, which sh
 6. Once you have identified the conditions to post a dweet, use as a 'thing name': YOUR-STUDENT-CODE-LASTNAME. [Read how to post/check deets here!](https://dweet.io/)
 
 
-### What to add in your repository
+### What to upload on Moodle:
 
-- Source code
+- Source code (main.py)
 - A picture of the circuit (breadboard + NodeMCU)
